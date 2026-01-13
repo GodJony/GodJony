@@ -11,9 +11,15 @@
 ---
 
 ## 📊 Activity & Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GodJony&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GodJony&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodJony&theme=dark&hide_border=true&background=000000" alt="GitHub Streak Stats" height="170px" />
   
+  <br/>
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodJony&layout=compact&theme=dark&hide_border=true&bg_color=000000&count_private=true&langs_count=6" alt="Top Languages" width="100%" />
+
   <br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodJony&theme=tokyonight&area=true&hide_border=true&bg_color=000000" width="100%" alt="Activity Graph" />
