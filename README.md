@@ -44,28 +44,6 @@
   <a href="mailto:devjony2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-  </a>
 </div>
 
 ---
-
-## 🏅 Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GodJony" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=GodJony" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodJony" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2C2C2C&height=120&section=footer"/>
-</div>
