@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:000000&height=200&section=header&text=GodJony%20%7C%20Unity%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:000000&height=200&section=header&text=GodJony%20%7C%20Unity%20Client%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=C%23+..+Unity+Client+Developer;Creative+Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 
