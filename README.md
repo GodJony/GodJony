@@ -8,7 +8,6 @@
   <h3>🎮 C# · Unity Client Dev</h3>
   <p>
     유니티 게임 엔진을 주로 사용하는 게임 개발자(예정)입니다.<br/>
-    성장하는 코드와 유지보수를 중요하게 생각합니다.
   </p>
 </div>
 
@@ -52,47 +51,17 @@
 
 ---
 
-## 🏅 Stats (Animated Style)
+## 🏅 Stats
 
 <div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GodJony
-&show_icons=true
-&count_private=true
-&rank_icon=github
-&hide_border=true
-&bg_color=transparent
-&title_color=000000
-&icon_color=000000
-&text_color=000000"
-height="180"/>
-
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GodJony
-&layout=compact
-&hide_border=true
-&bg_color=transparent
-&title_color=000000
-&text_color=000000"
-height="180"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GodJony" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=GodJony" />
 </div>
 
 <br/>
 
 <div align="center">
-
-<!-- GitHub Streak (애니메이션 느낌 핵심) -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GodJony
-&theme=default
-&hide_border=true
-&background=transparent
-&ring=000000
-&fire=000000
-&currStreakLabel=000000"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodJony" />
 </div>
 
 ---
