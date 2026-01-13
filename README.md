@@ -1,14 +1,22 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:000000&height=200&section=header&text=GodJony%20%7C%20Unity%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=C%23+..+Unity+Client+Developer;Creative+Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+
+  <p>
+    유니티 게임 엔진을 주로 사용하는 게임 개발자(예정)입니다.
+  </p>
 </div>
 
-<br/>
+---
 
+## 📊 Activity & Stats
 <div align="center">
-  <h3>🎮 C# · Unity Client Dev</h3>
-  <p>
-    유니티 게임 엔진을 주로 사용하는 게임 개발자(예정)입니다.<br/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GodJonyID&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodJonyID&theme=tokyonight&area=true&hide_border=true&bg_color=000000" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -45,5 +53,3 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
----
