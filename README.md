@@ -12,11 +12,11 @@
 
 ## 📊 Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GodJonyID&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GodJony&show_icons=true&theme=dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats" />
   
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodJonyID&theme=tokyonight&area=true&hide_border=true&bg_color=000000" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodJony&theme=tokyonight&area=true&hide_border=true&bg_color=000000" width="100%" alt="Activity Graph" />
 </div>
 
 ---
