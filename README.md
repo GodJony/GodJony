@@ -57,7 +57,7 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=GodJony
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GodJony
 &show_icons=true
 &count_private=true
 &rank_icon=github
@@ -65,12 +65,12 @@
 &bg_color=transparent
 &title_color=000000
 &icon_color=000000
-&text_color=000000
-&animation=fadeIn"
+&text_color=000000"
 height="180"/>
 
+
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodJony
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GodJony
 &layout=compact
 &hide_border=true
 &bg_color=transparent
