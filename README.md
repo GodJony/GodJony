@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=C%23+..+Unity+Client+Developer;Creative+Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 
-  <p>유니티 게임 엔진을 주로 사용하는 게임 개발자(예정)입니다.</p>
+  <p>유니티 게임 엔진을 주로 사용하는 게임 클라이언트 개발자입니다.</p>
 </div>
 
 <br/>
